@@ -13,7 +13,7 @@
 - 🐙 &nbsp; DevOps engineer
 - 🐌 &nbsp; Data Engineer
 - 🐞 &nbsp; Pre-backeng engineer
-- 🐛 &nbsp; I usually use Arch Linux
+
 <br/>
 <br/>
 <br/>
