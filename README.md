@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="800" height="340"/>
+<img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="200" height="57"/>
   
 </div
 </div>
