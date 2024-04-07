@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://your-gif-url.gif" width="50" height="50"/>
+</div
 </div>
-
 <h3 align="left">Свяжитесь со мной:</h3>
 <p align="left">
 <a href="https://kaggle.com/hallexhallexxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hallexhallexxxx" height="30" width="40" /></a>
@@ -25,3 +25,4 @@
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+
