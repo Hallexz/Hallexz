@@ -1,4 +1,4 @@
-## Hi! I'm Julia
+## 👻Hi! I'm Julia
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 <a href="https://t.me/Halehpum"><img alt="Telegram" src="https://github.com/Hallexz/Hallexz/blob/main/assets/teleg.svg" height="18px"/></a>
 
@@ -7,19 +7,19 @@
 <br/>
 
 
-### About me
-- &nbsp; I develop machine learning algorithms
-- &nbsp; I work with CV, NLP, DeepLearning
-- &nbsp; DevOps engineer
-- &nbsp; Data Engineer
-- &nbsp; Pre-backeng engineer
-- &nbsp; I usually use Arch Linux
+### 👽About me
+- 🤖 &nbsp; I develop machine learning algorithms
+- 🐹 &nbsp; I work with CV, NLP, DeepLearning
+- 🐙 &nbsp; DevOps engineer
+- 🐌 &nbsp; Data Engineer
+- 🐞 &nbsp; Pre-backeng engineer
+- 🐛 &nbsp; I usually use Arch Linux
 <br/>
 <br/>
 <br/>
 
 
-## 🔨 Languages and Tools:
+## 🪰 Languages and Tools:
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/bash%20-%234EAA25.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
