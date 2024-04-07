@@ -1,6 +1,7 @@
 ## Hi! I'm Julia
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
-<a href="https://t.me/Halehpum"><img alt="Telegram" src="https://github.com/Hallexz/Hallexz/blob/main/assets/telegram.svg" height="18px"/></a>
+<a href="https://t.me/Halehpum"><img alt="Telegram" src="https://github.com/Hallexz/Hallexz/blob/main/assets/teleg.svg" height="18px"/></a>
+<a href="584644926613094400"><img alt="Discord" src="https://github.com/Hallexz/Hallexz/blob/main/assets/discord.svg" height='18px'/></a>
 
 <img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="400" height="200" alt="Intro GIF"/> 
 <br/>
