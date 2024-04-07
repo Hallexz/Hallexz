@@ -1,8 +1,7 @@
 <h3 align="left">Свяжитесь со мной:</h3>
 <p выравнивание="слева">
 <a href="https://kaggle.com/hallexhallexxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/kaggle.svg" alt="hallexhallexxxx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hallexz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/leet-code.svg" alt="hallexz" height="30" width="40" /></a>
-<a href="https://leetcode.com/Hallexz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Hallexz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/Hallexz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/leet-code.svg" alt="hallexz" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Hallexxxzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/code-wars.svg" alt="Hallexxxzz" height="30" width="40" /></a>
 </p>
 
