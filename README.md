@@ -1,13 +1,13 @@
-<div class="container">
-<img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="400" height="200"/> 
-</div
-  
 <div class="contact-me">
   <h3>Свяжитесь со мной:</h3>
   <p>
     <a href="https://kaggle.com/hallexhallexxxx" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hallexhallexxxx" height="30" width="40" /></a>
   </p>
 </div>
+
+<div class="container">
+<img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="400" height="200"/> 
+</div
 
 
 
@@ -33,14 +33,7 @@
 <style>
 .container {
   display: flex;
-}
-
-img {
-  margin-right: 10px;
-}
-
-p {
-  text-align: left;
+  justify-content: space-between; /* This aligns elements to the left and right edges */
 }
 
 .contact-me {
