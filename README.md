@@ -18,6 +18,9 @@
 <br/>
 <br/>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hallexz&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/>
 
 ## 🪰 Languages and Tools:
 <br/>
@@ -38,5 +41,7 @@
 <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/postgres%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
+<br/>
+<br/>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hallexz)](https://github.com/ryo-ma/github-profile-trophy)
