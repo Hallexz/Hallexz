@@ -1,14 +1,17 @@
-<div class="contact-me">
-  <h3>Свяжитесь со мной:</h3>
-  <p>
-    <a href="https://kaggle.com/hallexhallexxxx" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hallexhallexxxx" height="30" width="40" /></a>
-  </p>
-</div>
+## Hi! I'm Julia
+<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href="https://t.me/Halehpum"><img alt="Telegram" src="https://github.com/Hallexz/Hallexz/blob/main/assets/Image.svg" height="18px"/></a>
 
-<div class="container">
-<img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="400" height="200"/> 
-</div
+<img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="400" height="200" alt="Intro GIF"/> 
+<br/>
 
+
+<div align="center">
+  </div>
+<div align="center">
+  </div>
+<div align="center">
+  </div>
 
 
 <div align="center">
@@ -30,14 +33,3 @@
 </div>
 
 
-<style>
-.container {
-  display: flex;
-  justify-content: space-between; /* This aligns elements to the left and right edges */
-}
-
-.contact-me {
-  text-align: right;
-}
-
-</style>
