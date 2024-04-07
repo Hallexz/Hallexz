@@ -1,5 +1,3 @@
-<h3 align="center">Увлеченный интерфейсный разработчик из Индии</h3>
-
 <h3 align="left">Свяжитесь со мной:</h3>
 <p выравнивание="слева">
 <a href="https://kaggle.com/hallexhallexxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/kaggle.svg" alt="hallexhallexxxx" height="30" width="40" /></a>
