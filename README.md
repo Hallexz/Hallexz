@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://your-gif-url.gif" width="50" height="50"/>
+<img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="50" height="50"/>
 </div
 </div>
 <h3 align="left">Свяжитесь со мной:</h3>
