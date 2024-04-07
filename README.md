@@ -1,4 +1,4 @@
-<div align="center">
+<div class="container">
 <img src="https://github.com/Hallexz/Hallexz/blob/main/assets/intro.gif?raw=true" width="400" height="200"/>
   
 </div
@@ -27,3 +27,21 @@
 <img src="https://img.shields.io/badge/postgres%20-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
+<div class="container">
+  <img src="https://your-gif-url.gif" width="50" height="50" />
+  <p>Ваш текст</p>
+</div>
+
+<style>
+.container {
+  display: flex;
+}
+
+img {
+  margin-right: 10px;
+}
+
+p {
+  text-align: left;
+}
+</style>
