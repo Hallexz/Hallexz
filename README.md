@@ -10,9 +10,9 @@
 ### 👽About me
 - 🤖 &nbsp; I develop machine learning algorithms
 - 🐹 &nbsp; I work with CV, NLP, DeepLearning
-- 🐙 &nbsp; DevOps engineer
+- 🐙 &nbsp; pre-DevOps engineer
 - 🐌 &nbsp; Data Engineer
-- 🐞 &nbsp; Pre-backeng engineer
+- 🐞 &nbsp; Backeng engineer
 
 <br/>
 <br/>
